@@ -1,5 +1,5 @@
 # bunce-mcelreath-HN-2016-matsigenka-norms
-contains data and analysis scripts for manuscript submitted to Human Nature in 2016
+contains data and analysis scripts for manuscript in press with Human Nature.  [(link to pre-print)](https://osf.io/preprints/socarxiv/62kd9)
 
 
 ``Manu_interviews_31oct16.csv``: comma separated data used in paper
