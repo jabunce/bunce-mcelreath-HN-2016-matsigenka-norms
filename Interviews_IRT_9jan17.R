@@ -24,7 +24,7 @@ options(mc.cores = parallel::detectCores())
 #Read the data from the csv data file into R:
 Interviews.raw <- read.csv(
 	file=
-	"./Manu_interviews_31oct16.csv", 
+  	"./Manu_interviews_31oct16.csv",
 	header=TRUE)
 
 #Check the variable names and dimensions in the data frame Interviews.raw
@@ -150,7 +150,7 @@ props1 <- data.frame(
 colnames(props1)[c(1:3)] <- c("Quest", "mach_yes", "mest_yes")
 
 
-props1 <- cbind(props, quest_names)
+props1 <- cbind(props1, quest_names)
 print(props1, digits=2)
 
 props <- props1[order(props1$mach_yes),] #reorder by machi percentage
@@ -4389,7 +4389,7 @@ adult_col <- c(
   round(mean(post10$bmat), digs),  #m10
   paste( round(as.vector(HPDI(post10$bmat, prob=cred))[1], digs), ", ",
          round(as.vector(HPDI(post10$bmat, prob=cred))[2], digs) ),
-  round(mean( ost11$bmat), digs),  #m11
+  round(mean(post11$bmat), digs),  #m11
   paste( round(as.vector(HPDI(post11$bmat, prob=cred))[1], digs), ", ",
          round(as.vector(HPDI(post11$bmat, prob=cred))[2], digs) ),
   round(mean(post12$bmat), digs),  #m12
