@@ -1,8 +1,9 @@
 # bunce-mcelreath-HN-2016-matsigenka-norms
 contains data and analysis scripts for open-access article:
 
-Bunce, JA and R McElreath (2017) [(Interethnic Interaction, Strategic Bargaining Power, and the Dynamics of Cultural Norms: A Field Study in an Amazonian Population)](https://link.springer.com/article/10.1007/s12110-017-9297-8). Human Nature. https://doi.org/10.1007/s12110-017-9297-8
+Bunce, JA and R McElreath (2017) Interethnic Interaction, Strategic Bargaining Power, and the Dynamics of Cultural Norms: A Field Study in an Amazonian Population. Human Nature. https://doi.org/10.1007/s12110-017-9297-8
 
+[(link to original pre-print)](https://osf.io/preprints/socarxiv/62kd9)
 
 @Article{Bunce2017,
 author="Bunce, John Andrew
