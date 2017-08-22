@@ -5,19 +5,6 @@ Bunce, JA and R McElreath (2017) Interethnic Interaction, Strategic Bargaining P
 
 [(link to original pre-print)](https://osf.io/preprints/socarxiv/62kd9)
 
-@Article{Bunce2017,
-author="Bunce, John Andrew
-and McElreath, Richard",
-title="Interethnic Interaction, Strategic Bargaining Power, and the Dynamics of Cultural Norms: A Field Study in an Amazonian Population",
-journal="Human Nature",
-year="2017",
-month="Aug",
-day="18",
-issn="1936-4776",
-doi="10.1007/s12110-017-9297-8",
-url="https://doi.org/10.1007/s12110-017-9297-8"
-}
-
 
 ``Manu_interviews_31oct16.csv``: comma separated data used in paper
 
