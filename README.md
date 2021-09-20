@@ -20,3 +20,6 @@ If you just want to generate the figures you can use the following:
 ``Fig4_B2_B3_9jan17.R``: fits IRT model m19 and makes Fig 4 and appendix Figs B2 and B3 (runs in a few minutes)
 
 ``TableB1_9jan17.R``: fits all 19 IRT models and constructs appendix Table B1 (this can take several hours)
+
+
+Empirical data included here is provided so that other researchers can check the analyses in the associated manuscript. These data shall not be used for any other purpose unless express permission is granted by John Bunce (john_bunce@eva.mpg.de).
